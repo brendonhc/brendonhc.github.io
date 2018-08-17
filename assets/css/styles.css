@@ -1,5 +1,7 @@
 /*   
- * Template Name: Developer - Responsive Website Template for Developers
+ * Template Name: Portifólio de Desenvolvedor Brendon Hudson
+ *
+ * Based: Developer - Responsive Website Template for Developers
  * Version: 1.0
  * Author: 3rd Wave Media
  * Twitter: @3rdwave_themes
@@ -414,14 +416,14 @@ iframe {
   font-size: 16px;
   margin-top: 0;
 }
-.education .item .university {
+.education .item .university{
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
   color: #999999;
   font-weight: 600;
   padding-left: 25px;
 }
-.education .item .university .year {
+.education .item .university .year{
   color: #b0b7bf;
   font-weight: 500;
 }
@@ -444,6 +446,19 @@ iframe {
 /* Blog Section */
 .blog .item {
   margin-bottom: 30px;
+}
+.blog .src {
+  color: #999999;
+  margin-left: 8px;
+  font-size: 11px;
+}
+.blog .srchref {
+  color: #999999;
+  text-decoration: underline;
+  font-size: 11px;
+}
+.blog .desc {
+  margin-left: 8px;
 }
 .blog .item .title {
   font-size: 18px;
